@@ -1,0 +1,8 @@
+body {
+	font-weight: 200;
+	a {
+		color: green;
+		display: flex;
+		font-size: 40pt;
+	}
+}
